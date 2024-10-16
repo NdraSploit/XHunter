@@ -1,5 +1,7 @@
-// Via Termux //
+# Credit By Zamur ®
 
+// Via Termux //
+_____________________________________________________
 Command Install Script :
 
 apt update && apt upgrade -y
@@ -7,4 +9,16 @@ pkg update && pkg upgrade -y
 pkg install git -y
 pkg install python3 -y
 pkg install python-pip
-git clone 
+git clone https://github.com/NdraSploit/XHunter.git
+
+Need Password Access !!
+
+_____________________________________________________
+Command Run Script :
+
+cd XHunter
+ls
+unarchive BugBounty.zip
+cd Xhunter
+python3 install.py
+python3 Xhunter.py

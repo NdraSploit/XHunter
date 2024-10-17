@@ -7,6 +7,7 @@ Command Install Script :
 apt update && apt upgrade -y
 pkg update && pkg upgrade -y
 pkg install git -y
+apt install nano -y
 pkg install unzip -y
 pkg install python3 -y
 pkg install python-pip -y
@@ -22,3 +23,6 @@ cd Xhunter
 python3 install.py
 pip install bs4
 python3 Xhunter.py
+_________________________
+P͢en͢go͢pti͢mal͢an͢ C͢om͢ma͢nd͢
+_________________________
